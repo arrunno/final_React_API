@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "key": "Welcome to react i18n",
+    "keyWithParams": "Hi {{name}} {{surname}}",
+    "name": "Name"
+  },
+  "product": {
+    "name": "Product name"
+  },
+  "cart" : {
+    "count" : "Total count {{count}}"
+  }
+}
